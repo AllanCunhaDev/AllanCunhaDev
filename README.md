@@ -1,5 +1,6 @@
 ### Fala pessoal, eu sou o Allan Cunha😃👋
 
+
 - 👨‍💻 Estou me aprofundando em Front-end
 - 👨‍💻 Hoje estudo JavaScript, React, TypeScript entre outras tecnologias.
 - 📱 Contate-me email:allancunha20@hotmail.com / linkedin: https://www.linkedin.com/in/allancunhadev/
