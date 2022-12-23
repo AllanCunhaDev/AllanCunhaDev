@@ -8,8 +8,8 @@
 
 
   <a href="https://github.com/AllanCunhaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCunhaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="460px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCunhaDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllanCunhaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCunhaDev&theme=dark&hide_border=false&&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,6 +24,11 @@
 </div>
   
 ## 
+
+⚔ Codewars Kyu 6: <a href="https://www.codewars.com/users/AllanCunhaDev" target="_blank"> <img align="center" src="https://www.codewars.com/users/AllanCunhaDev/badges/small"> </a>
+
+##
+
  <a href="https://www.instagram.com/allancunha/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AllanCunnha#6350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/allancunhadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -31,4 +36,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
 
