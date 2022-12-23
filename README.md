@@ -6,10 +6,11 @@
 - 👨‍💻 Hoje estudo JavaScript, React, TypeScript entre outras tecnologias.
 - 📱 Contate-me email:allancunha20@hotmail.com / linkedin: https://www.linkedin.com/in/allancunhadev/
 
-
+<div align="left">
   <a href="https://github.com/AllanCunhaDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllanCunhaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCunhaDev&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AllanCunhaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCunhaDev&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
