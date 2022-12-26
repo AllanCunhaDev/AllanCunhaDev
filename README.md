@@ -2,7 +2,7 @@
 
 - 👨‍💻 Estou me aprofundando em Front-end
 - 👨‍💻 Hoje estudo JavaScript, React, TypeScript entre outras tecnologias.
-- 📱 Contate-me email:allancunha20@hotmail.com / linkedin: https://www.linkedin.com/in/allancunhadev/
+- 📱 Contate-me email:allancunha20@hotmail.com
   <a href="https://www.linkedin.com/in/allancunhadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
