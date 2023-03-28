@@ -24,7 +24,7 @@
   <img align="center" alt="Allan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Allan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Allan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Allan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img align="center" alt="Allan-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
           
 </div>
   
