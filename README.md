@@ -1,6 +1,6 @@
 ### Fala pessoal, eu sou o Allan Cunha😃👋
 
-- 📱 Entre em contato - email:allancunha20@hotmail.com
+- 📱  Entre em contato - email:allancunha20@hotmail.com
 
 
   <a href="https://www.linkedin.com/in/allancunhadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
