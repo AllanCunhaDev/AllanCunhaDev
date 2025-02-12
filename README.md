@@ -37,8 +37,5 @@
  <a href="https://discord.gg/AllanCunnha#6350" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
 </div>
-
-##
-
 <img align="right" alt="Allan-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/367489282061107201/1055017415932653568/picasion.com_3b6a4f6c103754a27eb679213eb1e223.gif">
 
